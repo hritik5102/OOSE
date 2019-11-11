@@ -27,9 +27,9 @@ E- banking system software is designed so that the user can access his/her bank 
 
 **Role and Responsibilities**:
 
-* Team leader : Riddhisha Nirmal
+* Team leader : Niket Mehta
 * Developer : Vedang Paransis
 * Designer : Hritik Jaiswal
-* Tester : Niket Mehta
+* Tester : Riddhisha Nirmal
 
 
